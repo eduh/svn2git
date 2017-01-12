@@ -1,3 +1,3 @@
 <?php
-	echo 'Hello Index' ;
+	echo 'Hello Index New' ;
 ?>
