@@ -1,1 +1,1 @@
-# svn2git dev
+# svn2git
